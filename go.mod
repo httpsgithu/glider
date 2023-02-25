@@ -12,7 +12,7 @@ require (
 	github.com/nadoo/ipset v0.3.0
 	github.com/xtaci/kcp-go/v5 v5.6.1
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
-	golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0
+	golang.org/x/sys v0.1.0
 )
 
 require (
